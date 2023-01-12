@@ -16,8 +16,6 @@ To access the webpage, go to https://liguang-lee-zhang.github.io/Module-1-Challe
 
 Image showing deployed webpage:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
 
 ![Alt Deployed webpage](./assets/images/screenshot.png "Deployed Webpage")
 
