@@ -19,7 +19,7 @@ Image showing deployed webpage:
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 
-    ![Alt Deployed webpage](Module-1-Challenge/assets/images/screenshot.png)
+![Alt Deployed webpage](./assets/images/screenshot.png)
 
 
 
