@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- This project required me to modify existing html and css code in order to improve the accessibility of the deployed website. In addition, the readability of the code was improved by replacing existing non-semantic elements with semantic ones. Throughout the process, I was able to consolidate my learnings of html and css, as well as coding and naming best practices. Further, I implemented version control and successfully deployed the website using github. 
+This project required me to modify existing html and css code in order to improve the accessibility of the deployed website. In addition, the readability of the code was improved by replacing existing non-semantic elements with semantic ones. Throughout the process, I was able to consolidate my learnings of html and css, as well as coding and naming best practices. Further, I implemented version control and successfully deployed the website using github. 
 
 ## Installation
 
