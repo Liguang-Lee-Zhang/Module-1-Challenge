@@ -12,12 +12,14 @@ Use any web browser to access the webpage. If you wish to see the source code, p
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To access the webpage, go to https://liguang-lee-zhang.github.io/Module-1-Challenge/. 
+
+Image showing deployed webpage:
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt Deployed webpage](assets/images/screenshot.png)
     ```
 
 
